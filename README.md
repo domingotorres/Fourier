@@ -14,3 +14,14 @@ Actividad formativa 3. Implementación y evaluación de filtros digitales
 Instrucciones:
 
 El objetivo de esta actividad es diseñar filtros digitales pasa bajos, pasa altos y pasa bandas utilizando MATLAB o Python. Se analizarán las señales antes y después de aplicar los filtros para evaluar su efectividad. Finalmente, compartirás tu código en un repositorio en línea (GitHub) y presentarás tus hallazgos en una sesión en línea con una presentación de apoyo.
+
+Actividad formativa 4. Implementación y análisis de un sistema de modulación en amplitud
+
+Instrucciones:
+
+El objetivo de esta actividad es implementar un sistema de modulación en amplitud (AM) utilizando MATLAB o Python. Se analizará cómo cambia la señal modulada en distintos escenarios de comunicación, evaluando su desempeño bajo diferentes condiciones como ruido, distorsión y atenuación. Finalmente, compartirás tu código en un repositorio en línea (GitHub) y presentarás tus hallazgos en una sesión en línea con una presentación de apoyo.
+Conceptos clave a aplicar:
+
+        Modulación en amplitud (AM).
+        Análisis en el dominio del tiempo y frecuencia.
+        Impacto del ruido y distorsión en la señal modulada.
